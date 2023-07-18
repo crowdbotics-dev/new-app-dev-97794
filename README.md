@@ -63,7 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 
 This section outlines instructions on setting up a local development environment for the frontend of your application.
 
-## Installation
+## Installation Change
 
 ### Metro
 
