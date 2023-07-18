@@ -58,7 +58,7 @@
     "ts-loader": "^8.0.14",
     "url-loader": "^4.1.1",
     "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12",
+    "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^3.11.2"
   },
   "jest": {
